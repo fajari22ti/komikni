@@ -1,0 +1,43 @@
+{
+  "manga_id": "dragonslayer-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Return of the Peerless Dragon Slayer",
+  "status": "Ongoing",
+  "author": "Yu Jin-sung",
+  "artist": "Studio JHS",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Umat manusia di ambang kepunahan akibat invasi naga. Sang pahlawan terakhir, pemburu naga terkuat, akhirnya gugur dalam pertempuran melawan Raja Naga. Namun, alih-alih mati, ia justru terbangun kembali ke masa lalu saat ia masih menjadi kadet akademi yang lemah. Dengan ingatan dan pengalaman tempurnya, ia bersumpah untuk mengubah takdir dan membantai semua naga sebelum tragedi terulang.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dragonslayer.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Akhir dan Awal yang Baru",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch01/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Kadet Terlemah",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayer/ch02/005.jpg"
+      ]
+    }
+  ]
+}
