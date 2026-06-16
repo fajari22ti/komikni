@@ -19,5 +19,47 @@
     "cover": "https://via.placeholder.com/300x420/222222/39ff14?text=Children%20Of%20The%20Rune",
     "cbz_url": "https://raw.githubusercontent.com/fajari22ti/komikni/main/action/Children%20of%20the%20Rune.cbz",
     "category": "action"
+  },
+  {
+    "id": "Chronicles Of The Martial God_s Return",
+    "title": "Chronicles Of The Martial God S Return",
+    "cover": "https://via.placeholder.com/300x420/222222/39ff14?text=Chronicles%20Of%20The%20Martial%20God%20S%20Return",
+    "cbz_url": "https://raw.githubusercontent.com/fajari22ti/komikni/main/komedi/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz",
+    "category": "komedi"
+  },
+  {
+    "id": "Crimson Reset",
+    "title": "Crimson Reset",
+    "cover": "https://via.placeholder.com/300x420/222222/39ff14?text=Crimson%20Reset",
+    "cbz_url": "https://raw.githubusercontent.com/fajari22ti/komikni/main/komedi/Crimson%20Reset.cbz",
+    "category": "komedi"
+  },
+  {
+    "id": "Echoes of the Reverse Planet",
+    "title": "Echoes Of The Reverse Planet",
+    "cover": "https://via.placeholder.com/300x420/222222/39ff14?text=Echoes%20Of%20The%20Reverse%20Planet",
+    "cbz_url": "https://raw.githubusercontent.com/fajari22ti/komikni/main/komedi/Echoes%20of%20the%20Reverse%20Planet.cbz",
+    "category": "komedi"
+  },
+  {
+    "id": "Genius Prismatic Mage",
+    "title": "Genius Prismatic Mage",
+    "cover": "https://via.placeholder.com/300x420/222222/39ff14?text=Genius%20Prismatic%20Mage",
+    "cbz_url": "https://raw.githubusercontent.com/fajari22ti/komikni/main/romance/Genius%20Prismatic%20Mage.cbz",
+    "category": "romance"
+  },
+  {
+    "id": "I Am the Fated Villain",
+    "title": "I Am The Fated Villain",
+    "cover": "https://via.placeholder.com/300x420/222222/39ff14?text=I%20Am%20The%20Fated%20Villain",
+    "cbz_url": "https://raw.githubusercontent.com/fajari22ti/komikni/main/romance/I%20Am%20the%20Fated%20Villain.cbz",
+    "category": "romance"
+  },
+  {
+    "id": "I Killed an Academy Player",
+    "title": "I Killed An Academy Player",
+    "cover": "https://via.placeholder.com/300x420/222222/39ff14?text=I%20Killed%20An%20Academy%20Player",
+    "cbz_url": "https://raw.githubusercontent.com/fajari22ti/komikni/main/romance/I%20Killed%20an%20Academy%20Player.cbz",
+    "category": "romance"
   }
 ]
